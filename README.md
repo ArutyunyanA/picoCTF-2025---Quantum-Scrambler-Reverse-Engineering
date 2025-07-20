@@ -1,6 +1,3 @@
-# picoCTF-2025---Quantum-Scrambler-Reverse-Engineering
-picoCTF Chalenges - Quantum Scrambler Reverse Engineering
-
 ## picoCTF Chalenges - Quantum Scrambler Reverse Engineering
 
 ### Step - 1 Analyzing the Source Code
